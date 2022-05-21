@@ -2,7 +2,12 @@
   "name": "Nodesig",
   "id": "nodesig",
   "chainType": "Live",
-  "bootNodes": [],
+  "bootNodes": [
+    "/ip4/168.235.110.63/tcp/30333/p2p/12D3KooWFKAmwp42fVMw4C6aj844gFBh8X5Jsc1bpaoaqvsvGuMt",
+    "/ip4/168.235.102.127/tcp/30333/p2p/12D3KooWDAi44vRjZftsmSNMu63fMHxCpjfgWHaRs2rTUnUfiGkF",
+    "/ip4/168.235.82.18/tcp/30333/p2p/12D3KooWNFcC9QXSEB21SDYUHrqP6wsMfbh4ewwdHX3cw3J8RKrT",
+    "/ip4/87.103.91.175/tcp/30333/p2p/12D3KooWSP2DtdFcB3bGh4f9qDw4MXuQWN5y3EnWTDpS75g5Th5B"
+  ],
   "telemetryEndpoints": null,
   "protocolId": "sig",
   "properties": {

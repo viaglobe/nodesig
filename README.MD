@@ -2,10 +2,10 @@
 
 ## Install
 ```sh
-mkdir /tmp/nodesig
+mkdir /tmp/node
 ```
 ```sh
-cd /tmp/nodesig
+cd /tmp/node
 ```
 ```sh
 wget https://github.com/viaglobe/nodesig/releases/download/beta/nodesig.tar.gz
@@ -14,7 +14,12 @@ wget https://github.com/viaglobe/nodesig/releases/download/beta/nodesig.tar.gz
 tar -xf nodesig.tar.gz
 ```
 ```sh
+cd nodesig
+```
+```sh
 chmod a+rx nodesig
+```
+```sh
 chmod a+rx systemd-service.sh
 ```
 ```sh
